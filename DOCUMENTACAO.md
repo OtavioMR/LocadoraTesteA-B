@@ -26,7 +26,7 @@ A mensagem de confiança que já aparecia no site, sobre mais de 2.400 pessoas t
 
 ## Página inicial
 
-Foi criada uma página inicial responsiva com links para a versão A publicada e para a versão B disponível em `TesteB/index.html`. A página usa apenas HTML e CSS e não realiza sorteio nem coleta de dados.
+Foi criada uma página inicial responsiva com links para a versão A publicada e para a versão B disponível em `TesteB/index.html`. A página não realiza sorteio entre as versões.
 
 ## Documentação em Word
 
@@ -37,3 +37,7 @@ Foi criado um documento em Word com capturas das páginas, descrição das alter
 Foi elaborado um relatório de comparação entre a versão A publicada e a versão B local, com capturas reais, descrição das alterações e limitações da demonstração. O relatório apresenta uma hipótese proposta, sem afirmar resultados de conversão ou margens comprovadas. A disciplina permanece em aberto para preenchimento.
 
 Foi criada também uma versão editável do relatório em Word, mantendo o texto, a tabela comparativa e as capturas das interfaces.
+
+## Mapa de calor
+
+O código do Hotjar (ID 6855053) foi instalado na página inicial do projeto e nas páginas de catálogo, cadastro e checkout da versão B para coleta de interações. A página principal da versão B já possuía o código do Microsoft Clarity. A análise do mapa de calor depende dos dados coletados após a publicação; ainda não há resultados registrados.
